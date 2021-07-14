@@ -34,3 +34,11 @@ git remote set-uel <本地仓库名称> <仓库地址>
 git push -u origin master
 ```
 
+```
+#删除远程文件或文件夹
+git rm -- cached "路径+文件名"
+git add .
+git commit -m "delete file"
+git push
+```
+
