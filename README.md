@@ -26,7 +26,7 @@ git remote rename <原仓库名称> <新仓库名称>
 
 ```
 #修改仓库地址
-git remote set-uel <本地仓库名称> <仓库地址>
+git remote set-url <本地仓库名称> <仓库地址>
 ```
 
 ```
